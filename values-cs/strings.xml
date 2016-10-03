@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_not_found">Produkt nebyl nalezen!</string>
+
+    <string name="z_report">ZReport</string>
+    <string name="count_refunds">Počet splátek</string>
+    <string name="reset_znumber">Reset Z Number!</string>
+
+    <string name="product_image">Obrázek Produktu</string>
+    
+    <string name="settings_printer_logo">Logo</string>
+    <string name="change_price">Změna</string>
+    <string name="settings_printer_cutter_cmd">Cutter ESC/POS Commands</string>
+    <string name="settings_printer_cashdrawer_cmd">Drawer ESC/POS Commands</string>
+    <string name="settings_printer_char_size">Velikost písma</string>
+    <string name="settings_printer_char_table">Character Table Index</string>
+    <string name="esc_pos_printer">ESC/POS</string>
+    <string name="database_settings">Database</string>
+    <string name="printer_settings">Tisk</string>
+    <string name="autoBackup">Automatické zálohování</string>
+    <string name="backupInterval">Backup Interval ( v minutách )</string>
+    
+    <string name="settings_invoice_footer">Faktura zápatí Text</string>
+    
+    <string name="authorizenet">Authorize.NET</string>
+    <string name="authorizenet_login">Authorize Login</string>
+    <string name="authorizenet_pwd">Authorize Password</string>
+    <string name="authorizenet_register">Register Device</string>
+        <!-- Strings related to Application Information -->
+ 
+    <!-- Strings related to Enter Card Information page -->
+    <string name="card_number">Card Number</string>
+    <string name="expiration_date">MM/YY</string>
+    <string name="CVV2">CVV2</string>
+    <string name="zip_code">ZIP</string>
+    <string name="submit_button_text">Submit</string>
+
+    <!-- Strings related to Swipe Card Page -->
+    <string name="sim_instructions">Please swipe card</string>
+    <string name="charge_card">Charge Credit Card</string>
+    <string name="sim_card">Simulate Credit Card</string>
+    <string name="swipe_card_alert">Please swipe your credit card</string>
+    <string name="swipe_card_alert_message">Processing credit card information&#8230;</string>
+    <string name="completed_transaction">Your transaction has been processed</string>
+    <string name="error_invalid_card_number">This card number is invalid</string>
+    <string name="error_invalid_expdate">This expiration is invalid</string>
+    <string name="error_invalid_cvv2">This cvv2 is invalid</string>
+    <string name="error_invalid_zipcode">This zipcode is invalid</string>
+    <string name="cvv2_info_message">The security code (CVV2) is a unique three or four digit number located on the back of a credit card</string>
+    <string name="cvv2_info_title">What is a CVV2?</string>
+    
+    <!-- Strings related to Charge/ Swipe Options Menu -->
+    <string name="swipe_card_menu_text">Swipe Card</string>
+    <string name="enter_card_menu_text">Enter Card Information</string>
+    
+
+    <!-- Strings related to Login -->
+    <string name="prompt_loginID">Login ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_log_in">Log In</string>
+    <string name="login_progress_signing_in">Logging In&#8230;</string>
+    <string name="error_invalid_loginID">This login ID is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="visa_logo">Visa Logo</string>
+    <string name="title_activity_login">Sign In</string>
+    <string name="error_network">Unable to complete request. No internet connection.</string>
+
+    <!-- Strings related to Logout -->
+    <string name="action_log_out">Log Out</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_activity_charge_card">Charge Credit Card</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="kitchen_display">KitchenDisplay Address</string>
+    
+    <string name="bitcoin">Bitcoin</string>
+    
+    <string name="order_comment">Extra komentar</string>
+    
+    <string name="stock_report_from">z</string>
+    <string name="stock_report_to">na</string>
+    <string name="stock_report">Produkty</string>
+    
+    <string name="exporting_month_report">Exporting Month Report</string>
+    <string name="month_report">Month Report</string>
+    <string name="day_report">Day Report</string>
+    <string name="customer_count">Customer Count</string>
+    <string name="canceled_total">Canceled Total</string>
+    <string name="refunded_total">Refunded Total</string>
+    <string name="net_total">Net Total</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="generated_on">Generated on</string>
+   
+    
+    <string name="gift_card">Dárkové karty</string>
+    <string name="value">Hodnota</string>
+    <string name="coupon_code">Kupon Kód</string>
+    <string name="generate">Generovat</string>
+    <string name="dlg_choosedir_title">Zvolte adresář</string>
+        
+    <string name="tabshop_advert">printed by TabShop www.smartlab.at/tabshop-pos</string>
+    
+    <string name="menu_change_table_name">Názvy Tabulek</string>
+    
+    <string name="app_name_pro">TabShop PRO</string>
+    <string name="app_name">TabShop</string>
+    
+    <string name="modify">Změnit</string>
+    <string name="add">Přidat</string>
+    
+    
+    <string name="custom_pos">Custom</string>
+    <string name="add_free_position">Define Custom Position</string>
+    <!-- SyncService Strings -->
+    <string name="confirm_delete_all">Potvrzení Smazat vše?</string>
+    <string name="op_client">Pracovat buď jako klient</string>
+    <string name="op_server">Fungovat jako server</string>
+    <string name="cl_settings">Sync Nastavení klienta</string>
+    <string name="srv_address">Adresa serveru</string>
+    <string name="cl_freq">Frekvence (standardní: 30sec)</string>
+    <string name="srv_settings">Nastavení serveru</string>
+    <string name="port">Serverport (standardní 8080)</string>
+    <string name="user">Uživatel</string>
+    <string name="sync_button">Sync</string>
+    
+    <string name="payment_method">Způsob platby</string>
+    
+    <string name="bank_transfer_info">Info pro faktury pokladně</string>
+    <string name="invoice">Faktura</string>
+    
+    <string name="show_stock_history">Historie</string>
+    <string name="stock_supplier">Dodavatel</string>
+    <string name="add_stock">Doplňování Zásob</string>
+    
+    <string name="zero">0</string>
+    <string name="minStockValueTitle">Minimální Stock Oznámení Množství</string>
+    <string name="low_stock_notify_msg">Nízká Stock:</string>
+    
+    <string name="product_attr_print_description">Vytiskne popis (záruka)</string>
+    <string name="product_attr_sale">Prodej</string>
+    <string name="product_attr_backorder">Externím skladě</string>
+    <string name="product_attr_discontinued">Prodej ukončen</string>
+    
+    <string name="backup_db">Úplnou zálohu databáze</string>
+    
+    <string name="pro_version">PRO Version</string>
+	<string name="pro_version_price">Buy 6.79$</string>
+
+    
+    <string name="menu_settings">Nastavení</string>
+    <string name="menu_rate">Hodnocení</string>
+    <string name="total">Součet</string>
+    <string name="tax">Daň</string>
+    <string name="item">Položka</string>
+    <string name="qty">ks</string>
+    <string name="unit_price">Jednotková cena</string>
+    <string name="sub_total">Mezisoučet</string>
+    <string name="discount">Sleva</string>
+    <string name="print_order">Tisk objednávky</string>
+    <string name="taxes">Daně</string>
+    <string name="discounts">Slevy</string>
+    <string name="products">Zboží</string>
+    <string name="invoices">Účtenky</string>
+    <string name="go_pro">Kup víc funkcí!</string>
+    <string name="manage_taxes">Daně</string>
+    <string name="taxName">Označení daně</string>
+    <string name="percentage">Procento</string>
+    <string name="ok">OK</string>
+    <string name="finish">Dokončit</string>
+    <string name="x">X</string>
+    <string name="discountName">Název slevy</string>
+    <string name="manage_discounts">Slevy</string>
+    <string name="checkout">Pokladna</string>
+    <string name="scan">Skenovat</string>
+    <string name="manage_products">Zboží</string>
+    <string name="delete_category">Smaž kategorii!</string>
+    <string name="edit_settings">Uprav nastavení</string>
+    <string name="subscription">Placené funkce</string>
+    
+    <string name="cancel_invoice">Storno</string>
+    <string name="delete">Smazat</string>
+    <string name="refund">Vrátit peníze</string>
+    <string name="delete_all">Smazat vše</string>
+    <string name="close_day">Ukončit den</string>
+    <string name="export_csv">Exportovat do CSV</string>
+   
+    <string name="inventory">Sklad</string>
+    
+    <!-- AppRater.java -->
+    <string name="enjoy">Líbí se Vám tato aplikace?</string>
+    <string name="enjoy2">Věnujte prosím chvilku času a ohodnoťte ji. Díky za podporu!</string> 
+    <string name="rate">Ohodnotit </string>
+    <string name="remind">Později</string>
+    <string name="no_thanks">Ne, díky</string>
+    
+    <!-- Checkout Activity and Resource -->
+    <string name="cash">Hotovost</string>
+    <string name="paypal">PayPal</string>
+    <string name="paypalhere">PayPal Here</string>
+    <string name="creditcard">Kreditní karta</string>
+    <string name="card">Karta</string>
+    <string name="check">Šek</string>
+    <string name="customer">Zákazník</string>
+    <string name="pdf">PDF</string>
+    <string name="print">Tisk</string>
+    <string name="address">Adresa</string>
+    <string name="email">Email</string>
+    
+    <!-- InAppStoreActivity and Resource -->
+    <string name="buy_features">Placené funkce</string>
+    <string name="import_export_csv">CSV Import/Export</string>
+    <string name="import_export_csv_price">$0.99</string>
+    <string name="paypal_support">Platba přes PayPal</string>
+    <string name="paypal_support_price">$3.89</string>
+    <string name="table_support">Podpora více stolů</string>
+    <string name="table_support_price">$0.99</string>
+    <string name="promo_code">Promo kód</string>
+    <string name="inappstore_ok">OK</string>
+    
+    <!-- InvoicesActivity and Resource -->
+    <string name="exporting_csv">Exportuji CSV</string>
+    <string name="exporting_daily_report">Exportuji denní přehled</string>
+    <string name="subtotal">Mezisoučet:</string>
+    <string name="cost_price_sum">Nákupní cena celkem: </string>
+    <string name="i_discounts">Slevy: </string>
+    <string name="i_taxes">Dane: </string>
+    <string name="i_total">Soucet: </string>
+    <string name="income_report_file_name">_DayReport</string>
+    <string name="i_from">od</string>
+    <string name="i_to">do</string>
+    <string name="end_of_day_report">Day Report</string>
+    
+    <!-- ManageProductsActivity and Resource -->
+    <string name="importing_csv">Importuji CSV</string>
+    <string name="product_name">Název zboží</string>
+    <string name="product_description">Popis</string>
+    <string name="product_id">ID zboží (= čárový kód)</string>
+    <string name="product_price">Cena</string>
+    <string name="product_cost_price">Nákupní cena</string>
+    <string name="product_stock_quantity">Stav skladu</string>
+    <string name="product_category_path">Zařazení do kategorie (např. /Občerstvení/Nápoje)</string>
+    <string name="product_tax">Daň</string>
+    <string name="product_discount">Sleva</string>
+    
+    <string name="product_price_no_num">Cena musí být číslo!</string>
+    <string name="product_cost_price_no_num">Nákupní cena musí být číslo!</string>
+    <string name="product_qty_no_num">Stav skladu musí být číslo!</string>
+    <string name="product_duplicate_product_id">Zboží s tímto ID již existuje!</string>
+    <string name="product_duplicate_product_name">Zboží s tímto názvem již existuje!</string>
+    <string name="product_no_valid_product_id">Žádný platný identifikátor výrobku!</string>
+    <string name="product_error_update">Chyba při úpravě zboží!</string>
+    
+    <!-- ManageSettingsActivity and Resource -->
+    <string name="settings_locale">Měna</string>
+    <string name="settings_shop_name">Název obchodu</string>
+    <string name="settings_paypal_account">Účet PayPal</string>
+    <string name="settings_company_text">Popis společnosti na účtence</string>
+    <string name="settings_pos_id">Číslo zařízení (1..99)</string>
+    <string name="settings_printer_ip">IP adresa tiskárny</string>
+    <string name="settings_nr_tables">Počet stolů (současně otevřených účtenek)</string>
+    <string name="settings_save">Uložit</string>
+    
+    <!-- PrintOrderAsyncTask -->
+    <string name="print_order_title">Objednávka pro stůl:</string>
+    
+    <!-- PrintAsyncTask -->
+    <string name="print_invoice_title">Účtenka:</string>
+    <string name="print_invoice_tax">Daň:</string>
+    <string name="print_invoice_total">Součet:</string>
+    <string name="print_invoice_cash">Hotovost:</string>
+    <string name="print_invoice_change">Vráceno:</string>
+    <string name="print_invoice_paypal">Platba přes PayPal</string>
+    <string name="print_invoice_creditcard">Platba kreditní kartou</string>
+    <string name="print_invoice_cashcard">Platba kartou</string>
+    <string name="print_invoice_check">Platba šekem</string>
+    
+    <!-- InvoicePDFPrinter -->
+    <string name="print_pdf_printer_recipient">Pro:</string>
+    <string name="print_pdf_printer_tax">Daň</string>
+    <string name="print_pdf_printer_total">Součet</string>
+    <string name="print_pdf_printer_cash">Hotovost</string>
+    <string name="print_pdf_printer_change">Vráceno</string>
+    <string name="print_pdf_printer_paypal">Platba přes PayPal</string>
+    
+    <!-- PickTax Dialog -->
+    <string name="pick_tax">Zvolit daň</string>
+    
+    <string name="save">Uložit</string>
+    <string name="cancel">Storno</string>
+    <string name="import_csv">Importovat do CSV</string>
+    <string name="show_product">Ukaž zboží</string>
+    <string name="new_product">Nové zboží</string>
+    <string name="change_product">Uprav zboží</string>
+    <string name="delete_product">Odstraň zboží</string>
+    
+    <!-- Reporting Dialog -->
+    <string name="graph">Vytvářím graf</string>
+    <string name="charts">Grafy</string>
+    <string name="charts_price">$1.96</string>
+    <string name="profit">Zisk</string>
+    <string name="sales">Tržby</string>
+    <string name="show_graph">Ukaž graf</string>
+    
+    <!-- Emailing -->
+    <string name="no_email_client_installed">Není nainstalován emailový klient.</string>
+    
+    <string name="invoiceTitle">Název účtenky</string>
+    
+    <string name="all_items">Vše</string>
+    
+    <string name="day">Den</string>
+    <string name="account">Účet</string>
+    
+    <string name="password">Heslo</string>
+    <string name="pwd_support_price">$1.00</string>
+    
+    <string name="settings_max_printer_columns">Maximální počet sloupců pro tisk</string>
+    
+    <string name="reset_day">Obnovit den</string>
+    <string name="reset_account">Obnovit účet</string>
+    <string name="reset_invoices">Obnovit účtenky</string>
+    
+    <string name="backup_all">Zálohování</string>
+    <string name="restore_all">Obnovit</string>
+    
+    <string name="settings_exclusiveTaxMode">USA Daňový Režim</string>
+    
+    <string name="open_database">Otevření databáze</string>
+    
+    <string name="pwd_not_set">Heslo nebyl nastaven!</string>
+    
+     <!-- zxing -->
+    <string name="capture_name">QR Code Capture</string>
+    <string name="encoder_name">QR Code Encoder</string>
+    <string name="decoder_name">QR Code Decoder</string>
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <string name="msg_default_contents">Contents</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <string name="wifi_changing_network">Changing Network</string>
+    <string name="wifi_ssid_label">Network Name</string>
+    <string name="wifi_type_label">Type</string>
+    <string name="barcode_image">Barcode Image</string>
+    <string name="file_storage_location">File Storage Location</string>
+    <string name="payleven">payleven</string>
+    <string name="yodo">yodo</string>
+    <string name="image">Image</string>
+    <string name="settings_invoice_print_multiply">Multiple invoices</string>
+    <string name="dlg_choosedir_file">Choose CSV</string>
+    <string name="import_csv_dropbox">Import from Share</string>
+    <string name="import_etsy">Etsy import</string>
+    <string name="set_file_storage_directory_warning">Set storage directory in settings first!</string>
+    <string name="promote_product">Promote Product</string>
+    <string name="help">Help</string>
+    <string name="stripe">Stripe</string>
+    <string name="settings_stripe_key">Stripe Key</string>
+    <string name="settings_character_encoding">Character encoding</string>
+    <string name="support">Support</string>
+    <string name="split">Split</string>
+    <string name="print_call_number_on_invoice">Print call number on invoice</string>
+    <string name="google_spreadsheet">Sync Settings</string>
+    <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
+    <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
+    <string name="esc_pos_print_logo">Print logo</string>
+</resources>

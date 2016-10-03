@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_not_found">Ürün bulunamadı!</string>
+
+
+    <string name="z_report">ZReport</string>
+    <string name="count_refunds">Geri ödemeleri sayısı</string>
+    <string name="reset_znumber">Reset Z Number!</string>
+
+    <string name="product_image">Ürün resmi</string>
+    
+    <string name="settings_printer_logo">Logo</string>
+    <string name="change_price">Değiştirmek</string>
+    <string name="settings_printer_cutter_cmd">Cutter ESC/POS Commands</string>
+    <string name="settings_printer_cashdrawer_cmd">Drawer ESC/POS Commands</string>
+    <string name="settings_printer_char_size">Yazı Tipi Boyutu</string>
+    <string name="settings_printer_char_table">Karakter Dizin</string>
+    <string name="esc_pos_printer">ESC/POS</string>
+    <string name="database_settings">Database</string>
+    <string name="printer_settings">Baskı</string>
+    <string name="autoBackup">Otomatik Yedekleme</string>
+    <string name="backupInterval">( Dakika ) Yedekleme Aralığı</string>
+    
+    <string name="settings_invoice_footer">Fatura Altbilgi Metin</string>
+    
+    <string name="authorizenet">Authorize.NET</string>
+    <string name="authorizenet_login">Authorize Login</string>
+    <string name="authorizenet_pwd">Authorize Password</string>
+    <string name="authorizenet_register">Register Device</string>
+        <!-- Strings related to Application Information -->
+ 
+    <!-- Strings related to Enter Card Information page -->
+    <string name="card_number">Card Number</string>
+    <string name="expiration_date">MM/YY</string>
+    <string name="CVV2">CVV2</string>
+    <string name="zip_code">ZIP</string>
+    <string name="submit_button_text">Submit</string>
+
+    <!-- Strings related to Swipe Card Page -->
+    <string name="sim_instructions">Please swipe card</string>
+    <string name="charge_card">Charge Credit Card</string>
+    <string name="sim_card">Simulate Credit Card</string>
+    <string name="swipe_card_alert">Please swipe your credit card</string>
+    <string name="swipe_card_alert_message">Processing credit card information&#8230;</string>
+    <string name="completed_transaction">Your transaction has been processed</string>
+    <string name="error_invalid_card_number">This card number is invalid</string>
+    <string name="error_invalid_expdate">This expiration is invalid</string>
+    <string name="error_invalid_cvv2">This cvv2 is invalid</string>
+    <string name="error_invalid_zipcode">This zipcode is invalid</string>
+    <string name="cvv2_info_message">The security code (CVV2) is a unique three or four digit number located on the back of a credit card</string>
+    <string name="cvv2_info_title">What is a CVV2?</string>
+    
+    <!-- Strings related to Charge/ Swipe Options Menu -->
+    <string name="swipe_card_menu_text">Swipe Card</string>
+    <string name="enter_card_menu_text">Enter Card Information</string>
+    
+
+    <!-- Strings related to Login -->
+    <string name="prompt_loginID">Login ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_log_in">Log In</string>
+    <string name="login_progress_signing_in">Logging In&#8230;</string>
+    <string name="error_invalid_loginID">This login ID is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="visa_logo">Visa Logo</string>
+    <string name="title_activity_login">Sign In</string>
+    <string name="error_network">Unable to complete request. No internet connection.</string>
+
+    <!-- Strings related to Logout -->
+    <string name="action_log_out">Log Out</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_activity_charge_card">Charge Credit Card</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="kitchen_display">KitchenDisplay Address</string>
+    
+    <string name="bitcoin">Bitcoin</string>
+    
+    <string name="order_comment">Ekstra Comment</string>
+    
+    <string name="stock_report_from">arasında </string>
+    <string name="stock_report_to">karşı</string>
+    <string name="stock_report">Ürünler</string> 
+    
+    <string name="exporting_month_report">Ay Raporu İhracat</string>
+    <string name="month_report">Ay Raporu</string>
+    <string name="day_report">Day Raporu</string>
+    <string name="customer_count">Müsteri Sayisi </string>
+    <string name="canceled_total">Iptal Edildi Toplam </string>
+    <string name="refunded_total">Iade Toplam </string>
+    <string name="net_total">Net Toplam </string>
+    <string name="payment_methods">Ödeme Yöntemleri</string>
+    <string name="generated_on">olusturulan</string>
+    
+    <string name="gift_card">Kupon</string>
+    <string name="value">Değer</string>
+    <string name="coupon_code">Kupon Code</string>
+    <string name="generate">Oluşturmak</string>
+    <string name="dlg_choosedir_title">Dizinini Seçin</string>
+       
+   <string name="tabshop_advert">printed by TabShop www.smartlab.at/tabshop-pos</string>
+    
+    <string name="menu_change_table_name">Tablo Isimleri</string>
+    
+    <string name="app_name_pro">TabShop PRO</string>
+  <string name="app_name">TabShop</string>
+  
+  <string name="modify">Değiştirme</string>
+    <string name="add">Ekle</string>
+    
+    
+  <string name="x">X</string>
+  <string name="custom_pos">Özel</string>
+    <string name="add_free_position">Özel konum tanımlayın</string>
+    
+  <string name="paypal">PayPal</string>
+  <string name="pdf">PDF</string>
+  <string name="income_report_file_name">_DayReport</string>
+  <string name="product_category_path">Kategori (e.g. /Gıda/içecekler)</string>
+  <string name="print_invoice_tax">Vergi:</string>
+    <string name="print_invoice_total">Toplam:</string>
+    <string name="print_invoice_cash">Nakit:</string>
+    <string name="print_invoice_change">Değiştir:</string>
+    <string name="print_invoice_paypal">PayPal Ödeme</string>
+    <string name="print_invoice_creditcard">CreditCard Ödeme</string>
+    <string name="print_invoice_cashcard">CashCard Ödeme</string>
+    <string name="print_invoice_check">Check Ödeme</string>
+    <string name="zero">0</string>
+  
+  <!-- SyncService Strings -->
+  <string name="confirm_delete_all">Silmeyi Onayla tüm?</string>
+  <string name="op_client">İstemci olarak faaliyet</string>
+  <string name="op_server">Faaliyet sunucu</string>
+  <string name="cl_settings">İstemci eşitleme ayarları</string>
+  <string name="srv_address">Sunucu adresi</string>
+  <string name="cl_freq">Frekans (varsayılan: 30 sn)</string>
+  <string name="srv_settings">Sunucu ayarları</string>
+  <string name="port">ServerPort (varsayılan 8080)</string>
+  <string name="user">Kullanıcı</string>
+  <string name="sync_button">Eşitleme</string>
+  <string name="payment_method">Ödeme yöntemi</string>
+  <string name="bank_transfer_info">Metin fatura ödeme</string>
+  <string name="invoice">Fatura</string>
+  <string name="show_stock_history">Geçmiş</string>
+  <string name="stock_supplier">Tedarikçi</string>
+  <string name="add_stock">Yeniden stoklama</string>
+  <string name="minStockValueTitle">Minimum stok bildirim tutar</string>
+  <string name="low_stock_notify_msg">Düşük stok:</string>
+  <string name="product_attr_print_description">Yazdırma tanımı (garanti notlar)</string>
+  <string name="product_attr_sale">Satılık</string>
+  <string name="product_attr_backorder">Sipariş bakiyesi</string>
+  <string name="product_attr_discontinued">Üretimi bitenler</string>
+  <string name="backup_db">Tam veritabanı yedeklemesi</string>
+  <string name="pro_version">PRO sürümü</string>
+  <string name="pro_version_price">Buy 6,79$</string>
+  <string name="menu_settings">Ayarlar</string>
+  <string name="menu_rate">Oranı</string>
+  <string name="total">Toplam</string>
+  <string name="tax">Vergi</string>
+  <string name="item">Madde</string>
+  <string name="qty">Miktar</string>
+  <string name="unit_price">Birim fiyatı</string>
+  <string name="sub_total">Alt toplam</string>
+  <string name="discount">İndirim</string>
+  <string name="print_order">Yazdırma sırası</string>
+  <string name="taxes">Vergiler</string>
+  <string name="discounts">İndirimler</string>
+  <string name="products">Ürünler</string>
+  <string name="invoices">Faturalar</string>
+  <string name="go_pro">Özellikleri satın alın!</string>
+  <string name="manage_taxes">Vergiler</string>
+  <string name="taxName">Vergi kimlik</string>
+  <string name="percentage">Yüzde</string>
+  <string name="ok">Tamam</string>
+  <string name="finish">Bitiş</string>
+  <string name="discountName">Adı indirim</string>
+  <string name="manage_discounts">İndirimler</string>
+  <string name="checkout">Kullanıma alma</string>
+  <string name="scan">Tarama</string>
+  <string name="manage_products">Ürünler</string>
+  <string name="delete_category">Kategoriyi silmek!</string>
+  <string name="edit_settings">Ayarları Düzenle</string>
+  <string name="subscription">Özelliklerini al</string>
+  <string name="cancel_invoice">İptal</string>
+  <string name="delete">Sil</string>
+  <string name="refund">Geri ödeme</string>
+  <string name="delete_all">Tümünü Sil</string>
+  <string name="close_day">Gün kapatmak</string>
+  <string name="export_csv">CSV verme</string>
+  <string name="inventory">Stok</string>
+  <!-- AppRater.java -->
+  <string name="enjoy">Eğer kullanarak zevk</string>
+  <string name="enjoy2">, lütfen oy için bir dakikanızı ayırın. Desteğiniz için teşekkür ederiz!</string>
+  <string name="rate">Oranı</string>
+  <string name="remind">Daha sonra anımsat</string>
+  <string name="no_thanks">Hayır, Teşekkürler</string>
+  <!-- Checkout Activity and Resource -->
+  <string name="cash">Nakit</string>
+  <string name="paypalhere">PayPal burada</string>
+  <string name="creditcard">Kredi kartı</string>
+  <string name="card">Kart</string>
+  <string name="check">Onay</string>
+  <string name="customer">Müşteri</string>
+  <string name="print">Yazdır</string>
+  <string name="address">Adres</string>
+  <string name="email">E-posta</string>
+  <!-- InAppStoreActivity and Resource -->
+  <string name="buy_features">Özelliklerini al</string>
+  <string name="import_export_csv">CSV alma/verme</string>
+  <string name="import_export_csv_price">0,99 $ Satın almak</string>
+  <string name="paypal_support">PayPal Destek</string>
+  <string name="paypal_support_price">3.89 $ Satın almak</string>
+  <string name="table_support">Tablo desteği</string>
+  <string name="table_support_price">0,99 $ Satın almak</string>
+  <string name="promo_code">Promosyon kodu</string>
+  <string name="inappstore_ok">Tamam</string>
+  <!-- InvoicesActivity and Resource -->
+  <string name="exporting_csv">CSV disari aktarma</string>
+  <string name="exporting_daily_report">Günlük rapor verme</string>
+  <string name="end_of_day_report">Is günü raporun sonuna</string>
+  <string name="subtotal">Alt toplamı:</string>
+  <string name="cost_price_sum">Maliyet fiyatı toplamı:</string>
+  <string name="i_discounts">Indirimler:</string>
+  <string name="i_taxes">Vergiler:</string>
+  <string name="i_total">Toplam:</string>
+  <string name="i_from">Kaynak</string>
+  <string name="i_to">Hedef</string>
+  <!-- ManageProductsActivity and Resource -->
+  <string name="importing_csv">CSV içe aktarma</string>
+  <string name="product_name">Ürün adı</string>
+  <string name="product_description">Açıklama</string>
+  <string name="product_id">ProductID (barkod =)</string>
+  <string name="product_price">Fiyat</string>
+  <string name="product_cost_price">Maliyet fiyatı</string>
+  <string name="product_stock_quantity">Stok miktarı</string>
+  <string name="product_tax">Vergi</string>
+  <string name="product_discount">İndirim</string>
+  <string name="product_price_no_num">Fiyatı bir sayı olmalı.</string>
+  <string name="product_cost_price_no_num">Maliyet fiyatı bir sayı olmalı.</string>
+  <string name="product_qty_no_num">Miktar sayı olmalı!</string>
+  <string name="product_duplicate_product_id">Yinelenen Ürün kodu!</string>
+  <string name="product_duplicate_product_name">Yinelenen Ürün adı!</string>
+  <string name="product_no_valid_product_id">Geçerli ürün kimliği yok!</string>
+  <string name="product_error_update">Hata güncelleştirme ürün!</string>
+  <!-- ManageSettingsActivity and Resource -->
+  <string name="settings_locale">Para birimi</string>
+  <string name="settings_shop_name">Mağaza adı</string>
+  <string name="settings_paypal_account">PayPal Alışveriş hesabı</string>
+  <string name="settings_company_text">Fatura firma metin</string>
+  <string name="settings_pos_id">POS numarası (1..99)</string>
+  <string name="settings_printer_ip">Yazıcınızın IP adresini</string>
+  <string name="settings_nr_tables">Tablolar (açık faturaların) sayısı</string>
+  <string name="settings_save">Kaydet</string>
+  <!-- PrintOrderAsyncTask -->
+  <string name="print_order_title">Tablo:  için Order</string>
+  <!-- PrintAsyncTask -->
+  <string name="print_invoice_title">Fatura: </string>
+  <!-- InvoicePDFPrinter -->
+  <string name="print_pdf_printer_recipient">İçin: </string>
+  <string name="print_pdf_printer_tax">Vergi</string>
+  <string name="print_pdf_printer_total">Toplam</string>
+  <string name="print_pdf_printer_cash">Nakit</string>
+  <string name="print_pdf_printer_change">Değiştir</string>
+  <string name="print_pdf_printer_paypal">PayPal ödeme</string>
+  <!-- PickTax Dialog -->
+  <string name="pick_tax">Vergi seçimi</string>
+  <string name="save">Kaydet</string>
+  <string name="cancel">İptal</string>
+  <string name="import_csv">CSV içe aktarma</string>
+  <string name="show_product">Ürünü göster</string>
+  <string name="new_product">Yeni ürün</string>
+  <string name="change_product">Değişikliği ürün</string>
+  <string name="delete_product">Ürün silmek</string>
+  <!-- Reporting Dialog -->
+  <string name="graph">Grafik oluşturma</string>
+  <string name="charts">Kar grafikler</string>
+  <string name="charts_price">1,96 $ Satın almak</string>
+  <string name="profit">Kar</string>
+  <string name="sales">Satış</string>
+  <string name="show_graph">Grafiği göster</string>
+  <!-- Emailing -->
+  <string name="no_email_client_installed">E-posta istemcisi yüklü.</string>
+  <string name="invoiceTitle">Fatura başlığı</string>
+  <string name="all_items">Tüm</string>
+  <string name="day">Gün</string>
+  <string name="account">Hesap</string>
+  <string name="password">Şifre</string>
+  <string name="pwd_support_price">1,00 $ Satın almak</string>
+  <string name="settings_max_printer_columns">Max yazıcı sütunlar</string>
+  <string name="reset_day">Gün Sıfırla</string>
+  <string name="reset_account">Hesabı Sıfırla</string>
+  <string name="reset_invoices">Faturalar Sıfırla</string>
+  <string name="backup_all">Tüm yedekleme</string>
+  <string name="restore_all">Tüm geri yükleme</string>
+  <string name="settings_exclusiveTaxMode">ABD vergi modu</string>
+  <string name="open_database">Veritabanı açılıyor</string>
+  <string name="pwd_not_set">Şifre koymak değil!</string>
+  
+   <!-- zxing -->
+    <string name="capture_name">QR Code Capture</string>
+    <string name="encoder_name">QR Code Encoder</string>
+    <string name="decoder_name">QR Code Decoder</string>
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <string name="msg_default_contents">Contents</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <string name="wifi_changing_network">Changing Network</string>
+    <string name="wifi_ssid_label">Network Name</string>
+    <string name="wifi_type_label">Type</string>
+    <string name="barcode_image">Barcode Image</string>
+    <string name="file_storage_location">File Storage Location</string>
+    <string name="payleven">payleven</string>
+    <string name="yodo">yodo</string>
+    <string name="image">Image</string>
+    <string name="settings_invoice_print_multiply">Multiple invoices</string>
+    <string name="dlg_choosedir_file">Choose CSV</string>
+    <string name="import_csv_dropbox">Import from Share</string>
+    <string name="import_etsy">Etsy import</string>
+    <string name="set_file_storage_directory_warning">Set storage directory in settings first!</string>
+    <string name="promote_product">Promote Product</string>
+    <string name="help">Help</string>
+    <string name="stripe">Stripe</string>
+    <string name="settings_stripe_key">Stripe Key</string>
+    <string name="settings_character_encoding">Character encoding</string>
+    <string name="support">Support</string>
+    <string name="split">Split</string>
+    <string name="print_call_number_on_invoice">Print call number on invoice</string>
+    <string name="google_spreadsheet">Sync Settings</string>
+    <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
+    <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
+    <string name="esc_pos_print_logo">Print logo</string>
+</resources>

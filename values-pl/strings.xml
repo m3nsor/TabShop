@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_not_found">Nie znaleziono produktu!</string>
+
+    <string name="z_report">ZReport</string>
+    <string name="count_refunds">Ilość spłat</string>
+    <string name="reset_znumber">Reset Z Number!</string>
+
+    <string name="product_image">Zdjęcie Produktu</string>
+    
+    <string name="settings_printer_logo">Logo</string>
+    <string name="change_price">Modyfikować</string>
+    <string name="settings_printer_cutter_cmd">Cutter ESC/POS Commands</string>
+    <string name="settings_printer_cashdrawer_cmd">Drawer ESC/POS Commands</string>
+    <string name="settings_printer_char_size">Rozmiar czcionki</string>
+    <string name="settings_printer_char_table">Charakter Główna Tabela</string>
+    <string name="esc_pos_printer">ESC/POS</string>
+    <string name="database_settings">Database</string>
+    <string name="printer_settings">Druk</string>
+    <string name="autoBackup">Automatyczne tworzenie kopii zapasowych</string>
+    <string name="backupInterval">Interwał kopii zapasowych (w minutach)</string>
+    
+    <string name="settings_invoice_footer">Tekst stopki faktury</string>
+    
+    <string name="authorizenet">Authorize.NET</string>
+    <string name="authorizenet_login">Authorize Login</string>
+    <string name="authorizenet_pwd">Authorize Password</string>
+    <string name="authorizenet_register">Register Device</string>
+        <!-- Strings related to Application Information -->
+ 
+    <!-- Strings related to Enter Card Information page -->
+    <string name="card_number">Card Number</string>
+    <string name="expiration_date">MM/YY</string>
+    <string name="CVV2">CVV2</string>
+    <string name="zip_code">ZIP</string>
+    <string name="submit_button_text">Submit</string>
+
+    <!-- Strings related to Swipe Card Page -->
+    <string name="sim_instructions">Please swipe card</string>
+    <string name="charge_card">Charge Credit Card</string>
+    <string name="sim_card">Simulate Credit Card</string>
+    <string name="swipe_card_alert">Please swipe your credit card</string>
+    <string name="swipe_card_alert_message">Processing credit card information&#8230;</string>
+    <string name="completed_transaction">Your transaction has been processed</string>
+    <string name="error_invalid_card_number">This card number is invalid</string>
+    <string name="error_invalid_expdate">This expiration is invalid</string>
+    <string name="error_invalid_cvv2">This cvv2 is invalid</string>
+    <string name="error_invalid_zipcode">This zipcode is invalid</string>
+    <string name="cvv2_info_message">The security code (CVV2) is a unique three or four digit number located on the back of a credit card</string>
+    <string name="cvv2_info_title">What is a CVV2?</string>
+    
+    <!-- Strings related to Charge/ Swipe Options Menu -->
+    <string name="swipe_card_menu_text">Swipe Card</string>
+    <string name="enter_card_menu_text">Enter Card Information</string>
+    
+
+    <!-- Strings related to Login -->
+    <string name="prompt_loginID">Login ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_log_in">Log In</string>
+    <string name="login_progress_signing_in">Logging In&#8230;</string>
+    <string name="error_invalid_loginID">This login ID is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="visa_logo">Visa Logo</string>
+    <string name="title_activity_login">Sign In</string>
+    <string name="error_network">Unable to complete request. No internet connection.</string>
+
+    <!-- Strings related to Logout -->
+    <string name="action_log_out">Log Out</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_activity_charge_card">Charge Credit Card</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="kitchen_display">KitchenDisplay Address</string>
+    
+    <string name="bitcoin">Bitcoin</string>
+    
+    <string name="order_comment">Extra Comment</string>
+    
+    <string name="stock_report_from">z</string>
+    <string name="stock_report_to">do</string>
+    <string name="stock_report">Producty</string> 
+    
+    <string name="exporting_month_report">Raport wywozu miesiac</string>
+    <string name="month_report">Zglos miesiac </string>
+    <string name="day_report">Dzien Zglos </string>
+    <string name="customer_count">Liczba klientow </string>
+    <string name="canceled_total">Anulowania Razem</string>
+    <string name="refunded_total">Zwrotowi Razem</string>
+    <string name="net_total">Netto Razem</string>
+    <string name="payment_methods">Metody platnosci </string>
+    <string name="generated_on">generowane na</string>
+    
+    <string name="gift_card">Kupon</string>
+    <string name="value">Walor</string>
+    <string name="coupon_code">Kupon Code</string>
+    <string name="generate">Generować</string>
+    <string name="dlg_choosedir_title">Wybierz Katalog</string>
+        
+    <string name="tabshop_advert">printed by TabShop www.smartlab.at/tabshop-pos</string>
+    
+    <string name="menu_change_table_name">Nazwy Tabel</string>
+    
+    <string name="app_name_pro">TabShop PRO</string>
+    <string name="app_name">TabShop</string>
+    
+    <string name="modify">Modyfikowanie</string>
+    <string name="add">Dodaj</string>
+    
+    
+    <string name="custom_pos">Custom</string>
+    <string name="add_free_position">Zdefiniowanie niestandardowych</string>
+    <!-- SyncService Strings -->
+    <string name="confirm_delete_all">Potwierdzić usunąć wszystkie?</string>
+    <string name="op_client">Działać jako Klienta</string>
+    <string name="op_server">Działać jako serwer</string>
+    <string name="cl_settings">Klienta Sync Opcje</string>
+    <string name="srv_address">Adres serwera</string>
+    <string name="cl_freq">Częstość (norma: 30sec)</string>
+    <string name="srv_settings">Opcje serwer</string>
+    <string name="port">Serwer Port (norma 8080)</string>
+    <string name="user">Użytkownik</string>
+    <string name="sync_button">Synchronizować</string>
+    
+    <string name="payment_method">Sposób płatności</string>
+    
+    <string name="bank_transfer_info">Text faktury Checkout</string>
+    <string name="invoice">Fakturować</string>
+    
+    <string name="show_stock_history">Historia</string>
+    <string name="stock_supplier">Dostawca</string>
+    <string name="add_stock">Dodać</string>
+    
+    <string name="zero">0</string>
+    <string name="minStockValueTitle">Minimalna kwota Zawiadomienie Zdjęcie</string>
+    <string name="low_stock_notify_msg">Low Zdjęcie:</string>
+    
+    <string name="product_attr_print_description">Opis Reprodukcje (na gwarancji)</string>
+    <string name="product_attr_sale">Sprzedaż</string>
+    <string name="product_attr_backorder">Reszta</string>
+    <string name="product_attr_discontinued">Przerwać</string>
+    
+    <string name="backup_db">Full Database Backup</string>
+    
+    <string name="pro_version">PRO Version</string>
+	<string name="pro_version_price">Kup 5€</string>
+    
+    
+    <string name="menu_settings">Ustawienia</string>
+    <string name="menu_rate">Rate</string>
+    <string name="total">Razem</string>
+    <string name="tax">Podatek</string>
+    <string name="item">Pozycja</string>
+    <string name="qty">Ilość</string>
+    <string name="unit_price">Cena</string>
+    <string name="sub_total">Podsuma</string>
+    <string name="discount">Rabat</string>
+    <string name="print_order">Drukuj Zamówienie</string>
+    <string name="taxes">Podatki</string>
+    <string name="discounts">Rabaty</string>
+    <string name="products">Produkty</string>
+    <string name="invoices">Faktury</string>
+    <string name="go_pro">Kup Funkcjonalności!</string>
+    <string name="manage_taxes">Podatki</string>
+    <string name="taxName">Identyfikator Podatku</string>
+    <string name="percentage">Procent</string>
+    <string name="ok">OK</string>
+    <string name="finish">Koniec</string>
+    <string name="x">X</string>
+    <string name="discountName">Nazwa Rabatu</string>
+    <string name="manage_discounts">Rabaty</string>
+    <string name="checkout">Płatność</string>
+    <string name="scan">Skanuj</string>
+    <string name="manage_products">Produkty</string>
+    <string name="delete_category">Kasuj Kategorię!</string>
+    <string name="edit_settings">Edycja Ustawień</string>
+    <string name="subscription">Kup Funkcjonalności</string>
+    <string name="cancel_invoice">Anuluj</string>
+    <string name="delete">Kasuj</string>
+    <string name="refund">Zwrot</string>
+    <string name="delete_all">Kasuj Wszystkie</string>
+    <string name="close_day">Zamknij Dzień</string>
+    <string name="export_csv">Eksport do CSV</string>
+    <string name="inventory">Zapas</string>
+    <string name="enjoy">Jeśli podoba ci się</string>
+    <string name="enjoy2">, poświęć chwilę aby ocenić. Dziękuje za wsparcie!</string>
+    <string name="rate">Oceń</string>
+    <string name="remind">Przypomnij później</string>
+    <string name="no_thanks">Nie, dzięki</string>
+    <string name="cash">Gotówka</string>
+    <string name="paypal">PayPal</string>
+    <string name="paypalhere">PayPal Here</string>
+    <string name="creditcard">Kart Płatnicza</string>
+    <string name="card">Karta</string>
+    <string name="check">Czek</string>
+    <string name="customer">Klient</string>
+    <string name="pdf">PDF</string>
+    <string name="print">Drukuj</string>
+    <string name="address">Adres</string>
+    <string name="email">Email</string>
+    <string name="buy_features">Kup Funkcjonalności</string>
+    <string name="import_export_csv">CSV Import/Eksport</string>
+    <string name="import_export_csv_price">Kup €0.50</string>
+    <string name="paypal_support">Obsługa PayPal</string>
+    <string name="paypal_support_price">Kup €2.99</string>
+    <string name="table_support">Obsługa Stolików</string>
+    <string name="table_support_price">Kup €0.59</string>
+    <string name="promo_code">Kod Promo</string>
+    <string name="inappstore_ok">OK</string>
+    <string name="exporting_csv">Eksportuje do CSV</string>
+    <string name="exporting_daily_report">Eksportuje Dzienne Raporty</string>
+    <string name="end_of_day_report">Raport Końca Dnia Biznesowego</string>
+    <string name="subtotal">Podsuma:</string>
+    <string name="cost_price_sum">Suma Koszt:</string>
+    <string name="i_discounts">Rabaty:</string>
+    <string name="i_taxes">Podatki:</string>
+    <string name="i_total">Razem:</string>
+    <string name="income_report_file_name">_RaportPrzychodow</string>
+    <string name="i_from">od</string>
+    <string name="i_to">do</string>
+    <string name="importing_csv">Importuje CSV</string>
+    <string name="product_name">Nazwa Produktu</string>
+    <string name="product_description">Opis</string>
+    <string name="product_id">ID Produktu (=Kod Kreskowy)</string>
+    <string name="product_price">Cena</string>
+    <string name="product_cost_price">Koszt</string>
+    <string name="product_stock_quantity">Stan Magazynowy</string>
+    <string name="product_category_path">ŚcieżkaKategorii (np. /jedzenie/napoje)</string>
+    <string name="product_tax">Podatek</string>
+    <string name="product_discount">Rabat</string>
+    <string name="settings_locale">Waluta</string>
+    <string name="settings_shop_name">Nazwa Sklepu</string>
+    <string name="settings_paypal_account">Konto PayPal Sklepu</string>
+    <string name="settings_company_text">Nagłówek Faktury</string>
+    <string name="settings_pos_id">POS Id (1..99)</string>
+    <string name="settings_printer_ip">Adres IP Drukarki</string>
+    <string name="settings_nr_tables">Liczba Stolików (otwarte rachunki)</string>
+    <string name="settings_save">Zapisz</string>
+    <string name="print_order_title">Zamówienie dla Stolika:</string>
+    <string name="print_invoice_title">Faktura:</string>
+    <string name="print_invoice_tax">Podatek:</string>
+    <string name="print_invoice_total">Razem:</string>
+    <string name="print_invoice_cash">Gotówka:</string>
+    <string name="print_invoice_change">Reszta:</string>
+    <string name="print_invoice_paypal">Płatność PayPal</string>
+    <string name="print_invoice_creditcard">Płatność Kartą Kredytową</string>
+    <string name="print_invoice_cashcard">Płatność Kartą Płatniczą</string>
+    <string name="print_invoice_check">Płatność Czekiem</string>
+    <string name="print_pdf_printer_recipient">Dla:</string>
+    <string name="print_pdf_printer_tax">Podatek</string>
+    <string name="print_pdf_printer_total">Razem</string>
+    <string name="print_pdf_printer_cash">Gotówka</string>
+    <string name="print_pdf_printer_change">Reszta</string>
+    <string name="print_pdf_printer_paypal">Płatność PayPal</string>
+    <string name="pick_tax">Wybór Podatku</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="import_csv">Import CSV</string>
+    <string name="show_product">Pokaż Produkt</string>
+    <string name="new_product">Nowy Produkt</string>
+    <string name="change_product">Zmień Produkt</string>
+    <string name="delete_product">Usuń Produkt</string>
+    <string name="graph">Generowanie Wykresu</string>
+    <string name="charts">Wykres Zysków</string>
+    <string name="charts_price">Kup €1.50</string>
+    <string name="profit">Zysk</string>
+    <string name="sales">Sprzedaż</string>
+    <string name="show_graph">Pokaż Wykres</string>
+    
+    <string name="product_price_no_num">Cena musi być liczbą!</string>
+    <string name="product_cost_price_no_num">Cena zakupu ma być liczba!</string>
+    <string name="product_qty_no_num">Ilość musi być liczbą!</string>
+    <string name="product_duplicate_product_id">Duplikat identyfikator produktu!</string>
+    <string name="product_duplicate_product_name">Duplikat Nazwa produktu!</string>
+    <string name="product_no_valid_product_id">Nie ważny identyfikator produktu!</string>
+    <string name="product_error_update">Błąd Aktualizacja Produktu!</string>
+    
+    <!-- Emailing -->
+    <string name="no_email_client_installed">No klient email zainstalowane.</string>
+    
+    <string name="invoiceTitle">Tytuł Faktury</string>
+    
+    <string name="all_items">Wszystko</string>
+    
+    <string name="day">Dniówka</string>
+    <string name="account">Konto</string>
+    
+    <string name="password">Hasło</string>
+    <string name="pwd_support_price">Kup €0.76</string>
+    
+     <string name="settings_max_printer_columns">Max Columns Drukarki</string>
+     
+    <string name="reset_day">Resetowanie Dniówka</string>
+    <string name="reset_account">Resetowanie Konto</string>
+     <string name="reset_invoices">Resetowanie Faktury</string>
+     
+    <string name="backup_all">Tworzenie kopii zapasowych</string>
+    <string name="restore_all">Przywracać</string>
+    
+    <string name="settings_exclusiveTaxMode">USA tryb Tax</string>
+    
+    <string name="open_database">Otwieranie bazy danych</string>
+    
+    <string name="pwd_not_set">Hasło nie był ustawiony!</string>
+    
+     <!-- zxing -->
+    <string name="capture_name">QR Code Capture</string>
+    <string name="encoder_name">QR Code Encoder</string>
+    <string name="decoder_name">QR Code Decoder</string>
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <string name="msg_default_contents">Contents</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <string name="wifi_changing_network">Changing Network</string>
+    <string name="wifi_ssid_label">Network Name</string>
+    <string name="wifi_type_label">Type</string>
+    <string name="barcode_image">Barcode Image</string>
+    <string name="file_storage_location">File Storage Location</string>
+    <string name="payleven">payleven</string>
+    <string name="yodo">yodo</string>
+    <string name="image">Image</string>
+    <string name="settings_invoice_print_multiply">Multiple invoices</string>
+    <string name="dlg_choosedir_file">Choose CSV</string>
+    <string name="import_csv_dropbox">Import from Share</string>
+    <string name="import_etsy">Etsy import</string>
+    <string name="set_file_storage_directory_warning">Set storage directory in settings first!</string>
+    <string name="promote_product">Promote Product</string>
+    <string name="help">Help</string>
+    <string name="stripe">Stripe</string>
+    <string name="settings_stripe_key">Stripe Key</string>
+    <string name="settings_character_encoding">Character encoding</string>
+    <string name="support">Support</string>
+    <string name="split">Split</string>
+    <string name="print_call_number_on_invoice">Print call number on invoice</string>
+    <string name="google_spreadsheet">Sync Settings</string>
+    <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
+    <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
+    <string name="esc_pos_print_logo">Print logo</string>
+</resources>

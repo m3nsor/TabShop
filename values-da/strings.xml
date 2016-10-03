@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="product_not_found">Produkt ikke fundet!</string>
+
+
+    <string name="z_report">ZRapport</string>
+    <string name="count_refunds">Refundering Antal</string>
+    <string name="reset_znumber">Nulstil Z nummer!</string>
+
+
+    <string name="product_image">Produkt Billede</string>
+
+
+    <string name="settings_printer_logo">Logo (200x150)</string>
+    <string name="change_price">andre pris</string>
+    <string name="settings_printer_cutter_cmd">Cutter ESC/POS Kommandoer</string>
+    <string name="settings_printer_cashdrawer_cmd">Drawer ESC/POS Kommandoer</string>
+    <string name="settings_printer_char_size">Font Størrelse</string>
+    <string name="settings_printer_char_table">Character Table Index</string>
+    <string name="esc_pos_printer">ESC/POS</string>
+    <string name="database_settings">Database</string>
+    <string name="printer_settings">Print</string>
+    <string name="autoBackup">Automatisk Backup</string>
+    <string name="backupInterval">Backup Interval (i minutter)</string>
+
+    <string name="settings_invoice_footer">Faktura Footer Tekst</string>
+
+    <string name="authorizenet">Authorize.NET</string>
+    <string name="authorizenet_login">Authorize Login</string>
+    <string name="authorizenet_pwd">Authorize Password</string>
+    <string name="authorizenet_register">Registrere Enhed</string>
+    <!-- Strings related to Application Information -->
+
+    <!-- Strings related to Enter Card Information page -->
+    <string name="card_number">Kort Nummer</string>
+    <string name="expiration_date">MM/åå</string>
+    <string name="CVV2">CVV2</string>
+    <string name="zip_code">Postnummer</string>
+    <string name="submit_button_text">Send</string>
+
+    <!-- Strings related to Swipe Card Page -->
+    <string name="sim_instructions">Swipe venligst kort</string>
+    <string name="charge_card">Opkræv Kreditkort</string>
+    <string name="sim_card">SIM Kreditkort</string>
+    <string name="swipe_card_alert">Swipe dit kreditkort</string>
+    <string name="swipe_card_alert_message">Behandler kreditkort informationer</string>
+    <string name="completed_transaction">Din transaktion er gennemført</string>
+    <string name="error_invalid_card_number">Dette kort er ugyldigt</string>
+    <string name="error_invalid_expdate">Udløbdsdato er ugyldig</string>
+    <string name="error_invalid_cvv2">cvv2 er ugyldig</string>
+    <string name="error_invalid_zipcode">postnummeret er ugyldigt</string>
+    <string name="cvv2_info_message">Sikkerhedskoden (CVV2) er et unikt 3 eller 4 cifret nummer bag p� kortet</string>
+    <string name="cvv2_info_title">Hvad er CVV2?</string>
+
+    <!-- Strings related to Charge/ Swipe Options Menu -->
+    <string name="swipe_card_menu_text">Swipe Kort</string>
+    <string name="enter_card_menu_text">Indtast Kort Informationer</string>
+
+
+    <!-- Strings related to Login -->
+    <string name="prompt_loginID">Login ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_log_in">Log In</string>
+    <string name="login_progress_signing_in">Logger Ind&#8230;</string>
+    <string name="error_invalid_loginID">Dette login er ugyldigt</string>
+    <string name="error_invalid_password">Password er for kort</string>
+    <string name="error_incorrect_password">Dette password er ikke korrekt</string>
+    <string name="error_field_required">Dette felt påkrævet</string>
+    <string name="visa_logo">Visa Logo</string>
+    <string name="title_activity_login">Log in</string>
+    <string name="error_network">Kan ikke gennemføre forespørgelse. Ingen internetforbindelse.</string>
+
+    <!-- Strings related to Logout -->
+    <string name="action_log_out">Log Ud</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_activity_charge_card">Opkræv Kreditkort</string>
+    <string name="action_settings">Indstillinger</string>
+
+
+    <string name="kitchen_display">KitchenDisplay Addresse</string>
+
+    <string name="bitcoin">Bitcoin</string>
+
+    <string name="order_comment">Ekstra Kommentar</string>
+
+    <string name="stock_report_from">fra</string>
+    <string name="stock_report_to">til</string>
+    <string name="stock_report">Produkter</string>
+
+    <string name="exporting_month_report">Exporterer Månedsrapport</string>
+    <string name="month_report">Månedlig Rapport</string>
+    <string name="day_report">Daglig Rapport</string>
+    <string name="customer_count">Kundetal</string>
+    <string name="canceled_total">Aflyste Total</string>
+    <string name="refunded_total">Refunderet Total</string>
+    <string name="net_total">Netto Total</string>
+    <string name="payment_methods">Betalingsmetoder</string>
+    <string name="generated_on">Genereret den</string>
+
+    <string name="gift_card">Gavekort</string>
+    <string name="value">Værdi</string>
+    <string name="coupon_code">Kuponkode</string>
+    <string name="generate">Generate</string>
+    <string name="dlg_choosedir_title">Vælg Directory</string>
+    <string name="tabshop_advert">printet af TabShop www.smartlab.at/tabshop-pos</string>
+    <string name="menu_change_table_name">Bord Navne</string>
+    <string name="app_name_pro">TabShop PRO</string>
+    <string name="app_name">TabShop</string>
+    <string name="modify">ændre</string>
+    <string name="add">Tilføje</string>
+    <string name="x">X</string>
+    <string name="custom_pos">Brugerdefiner</string>
+    <string name="add_free_position">Angiv Brugerdefineret Position</string>
+    <!-- SyncService Strings -->
+    <string name="confirm_delete_all">Bekræft Slet Alle?</string>
+    <string name="op_client">Brug som Klient</string>
+    <string name="op_server">Brug som Server</string>
+    <string name="cl_settings">Klient Sync Indstillinger</string>
+    <string name="srv_address">Server Addresse</string>
+    <string name="cl_freq">Frekvens (standard: 30sek)</string>
+    <string name="srv_settings">Server Settings</string>
+    <string name="port">Serverport (standard: 8080)</string>
+    <string name="user">Bruger</string>
+    <string name="sync_button">Synchronize</string>
+    <string name="payment_method">Betalingsmetode</string>
+    <string name="bank_transfer_info">Faktura Betalings Tekst</string>
+    <string name="invoice">Faktura</string>
+    <string name="show_stock_history">Historie</string>
+    <string name="stock_supplier">Leverandør</string>
+    <string name="add_stock">Opfyld</string>
+    <string name="zero">0</string>
+    <string name="minStockValueTitle">Minimum Lager Notifikation</string>
+    <string name="low_stock_notify_msg">Lav Beholdning:</string>
+    <string name="product_attr_print_description">Print Beskrivelse (Garanti noter)</string>
+    <string name="product_attr_sale">Salg</string>
+    <string name="product_attr_backorder">Restordre</string>
+    <string name="product_attr_discontinued">Udg�et</string>
+    <string name="backup_db">Fuld Database Backup</string>
+    <string name="pro_version">PRO Version</string>
+    <string name="pro_version_price">Køb 6.79$</string>
+    <string name="menu_settings">Indstillinger</string>
+    <string name="menu_rate">Bedøm</string>
+    <string name="total">Total</string>
+    <string name="tax">Moms</string>
+    <string name="item">Vare</string>
+    <string name="qty">Antal</string>
+    <string name="unit_price">Enhedspris</string>
+    <string name="sub_total">Subtotal</string>
+    <string name="discount">Rabat</string>
+    <string name="print_order">Print Ordre</string>
+    <string name="taxes">Momser</string>
+    <string name="discounts">Rabatter</string>
+    <string name="products">Produkter</string>
+    <string name="invoices">Fakturer</string>
+    <string name="go_pro">Køb Tilføjelser!</string>
+    <string name="manage_taxes">Momser</string>
+    <string name="taxName">Moms Id�er</string>
+    <string name="percentage">Procent</string>
+    <string name="ok">OK</string>
+    <string name="finish">Færdig</string>
+    <string name="discountName">Rabat Navn</string>
+    <string name="manage_discounts">Rabatter</string>
+    <string name="checkout">Kassen</string>
+    <string name="scan">Skan</string>
+    <string name="manage_products">Produkter</string>
+    <string name="delete_category">Slet kategori!</string>
+    <string name="edit_settings">Indstillinger</string>
+    <string name="subscription">Køb Tilføjelser</string>
+    <string name="cancel_invoice">Afbryd</string>
+    <string name="delete">Slet</string>
+    <string name="refund">Refund�r</string>
+    <string name="delete_all">Slet Alle</string>
+    <string name="close_day">Luk Dag</string>
+    <string name="export_csv">Eksport CSV</string>
+    <string name="inventory">Inventar</string>
+
+    <!-- AppRater.java -->
+    <string name="enjoy">Hvis du nyder at bruge</string>
+    <string name="enjoy2">, s� bedøm venligst. Tak for din støtte!</string>
+    <string name="rate">Bedøm </string>
+    <string name="remind">Minde mig senere</string>
+    <string name="no_thanks">Nej, tak</string>
+
+    <!-- Checkout Activity and Resource -->
+    <string name="cash">Kontant</string>
+    <string name="paypal">PayPal</string>
+    <string name="paypalhere">PayPal Here</string>
+    <string name="creditcard">Kredit Kort</string>
+    <string name="card">Kort</string>
+    <string name="check">Check</string>
+    <string name="customer">Kunde</string>
+    <string name="pdf">PDF</string>
+    <string name="print">Print</string>
+    <string name="address">Adresse</string>
+    <string name="email">Email</string>
+
+    <!-- InAppStoreActivity and Resource -->
+    <string name="buy_features">Køb Tilføjelser</string>
+    <string name="import_export_csv">CSV Import/Eksport</string>
+    <string name="import_export_csv_price">Køb $0.99</string>
+    <string name="paypal_support">PayPal Support</string>
+    <string name="paypal_support_price">Køb $3.89</string>
+    <string name="table_support">Bord Support</string>
+    <string name="table_support_price">Køb $0.99</string>
+    <string name="promo_code">Promo Kode</string>
+    <string name="inappstore_ok">OK</string>
+
+    <!-- InvoicesActivity and Resource -->
+    <string name="exporting_csv">Eksporting CSV</string>
+    <string name="exporting_daily_report">Eksporterer Daglig Rapport</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="end_of_day_report">Dagsrapport</string>
+    <string name="cost_price_sum">Indkøbspris Sum: </string>
+    <string name="i_discounts">Rabatter: </string>
+    <string name="i_taxes">Moms: </string>
+    <string name="i_total">Total: </string>
+    <string name="income_report_file_name">_Dagsrapport</string>
+    <string name="i_from">fra</string>
+    <string name="i_to">til</string>
+
+    <!-- ManageProductsActivity and Resource -->
+    <string name="importing_csv">Importerer CSV</string>
+    <string name="product_name">Produkt Navn</string>
+    <string name="product_description">Beskrivelse</string>
+    <string name="product_id">ProduktID (=Barcode)</string>
+    <string name="product_price">Pris</string>
+    <string name="product_cost_price">Indkøbspris</string>
+    <string name="product_stock_quantity">Lagerantal</string>
+    <string name="product_category_path">Kategoristi (f.eks /mad/drinks)</string>
+    <string name="product_tax">Moms</string>
+    <string name="product_discount">Rabat</string>
+    <string name="product_price_no_num">Pris skal være et tal!</string>
+    <string name="product_cost_price_no_num">Indkøbspris skal være et tal!</string>
+    <string name="product_qty_no_num">Antal skal være et tal!</string>
+    <string name="product_duplicate_product_id">Duplikeret Produkt ID!</string>
+    <string name="product_duplicate_product_name">Duplikeret Produktnavn!</string>
+    <string name="product_no_valid_product_id">Ingen Gyldig Produkt ID!</string>
+    <string name="product_error_update">Fejlopdateret Produkt!</string>
+
+    <!-- ManageSettingsActivity and Resource -->
+    <string name="settings_locale">Valuta</string>
+    <string name="settings_shop_name">Butiksnavn</string>
+    <string name="settings_paypal_account">PayPal Butikskonto</string>
+    <string name="settings_company_text">Faktura Firmatekst</string>
+    <string name="settings_pos_id">POS Id (1..99)</string>
+    <string name="settings_printer_ip">Printer IP Adresse</string>
+    <string name="settings_nr_tables">Bordantal (�bne fakturer)</string>
+    <string name="settings_save">Gem</string>
+
+    <!-- PrintOrderAsyncTask -->
+    <string name="print_order_title">Ordre for Bord:</string>
+
+    <!-- PrintAsyncTask -->
+    <string name="print_invoice_title">Faktura:</string>
+    <string name="print_invoice_tax">Moms:</string>
+    <string name="print_invoice_total">Total:</string>
+    <string name="print_invoice_cash">Kontant:</string>
+    <string name="print_invoice_change">Byttepenge:</string>
+    <string name="print_invoice_paypal">PayPal Betaling</string>
+    <string name="print_invoice_creditcard">Kreditkort Betaling</string>
+    <string name="print_invoice_cashcard">CashCard Betaling</string>
+    <string name="print_invoice_check">Check Betaling</string>
+
+    <!-- InvoicePDFPrinter -->
+    <string name="print_pdf_printer_recipient">Til:</string>
+    <string name="print_pdf_printer_tax">Moms</string>
+    <string name="print_pdf_printer_total">Total</string>
+    <string name="print_pdf_printer_cash">Kontant</string>
+    <string name="print_pdf_printer_change">Byttepenge</string>
+    <string name="print_pdf_printer_paypal">PayPal Checkud</string>
+
+    <!-- PickTax Dialog -->
+
+    <string name="pick_tax">Moms valg</string>
+    <string name="save">Gem</string>
+    <string name="cancel">Afbryd</string>
+    <string name="import_csv">Importer CSV</string>
+    <string name="show_product">Vis Produkt</string>
+    <string name="new_product">Nyt Produkt</string>
+    <string name="change_product">ændre Produkt</string>
+    <string name="delete_product">Slet Produkt</string>
+
+    <!-- Reporting Dialog -->
+    <string name="graph">Genererer Diagram</string>
+    <string name="charts">Profit Diagram</string>
+    <string name="charts_price">Køb $1.96</string>
+    <string name="profit">Profit</string>
+    <string name="sales">Salg</string>
+    <string name="show_graph">Vis Diagram</string>
+
+    <!-- Emailing -->
+    <string name="no_email_client_installed">Ingen Emailklient Indstalleret.</string>
+    <string name="invoiceTitle">Faktura Titel</string>
+    <string name="all_items">Alle</string>
+    <string name="day">Dag</string>
+    <string name="account">Konto</string>
+    <string name="password">Password</string>
+    <string name="pwd_support_price">Køb $1.00</string>
+    <string name="settings_max_printer_columns">Maks Printer Kolonner</string>
+    <string name="reset_day">Nulstil Dag</string>
+    <string name="reset_account">Nulstil Konto</string>
+    <string name="reset_invoices">Nulstil Fakturer</string>
+    <string name="backup_all">Backup Alle</string>
+    <string name="restore_all">Gendan Alle</string>
+    <string name="settings_exclusiveTaxMode">USA Moms Mode</string>
+    <string name="open_database">åbner Database</string>
+    <string name="pwd_not_set">Password Ikke Sat!</string>
+
+    <!-- zxing -->
+    <string name="capture_name">QR Kode Fanger</string>
+    <string name="encoder_name">QR Kode Indkoder</string>
+    <string name="decoder_name">QR Kode Dekoder</string>
+    <string name="contents_contact">Kontakt info</string>
+    <string name="contents_email">Email addresse</string>
+    <string name="contents_location">Geografiske Koordinater</string>
+    <string name="contents_phone">Tlf. nummer</string>
+    <string name="contents_sms">SMS addresse</string>
+    <string name="contents_text">Alm. tekst</string>
+    <string name="msg_default_contents">Indhold</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hej</string>
+    <string name="msg_default_status">Placer en stregkode inde i søgerens rektangel for at scanne det.</string>
+    <string name="msg_default_time">Tid</string>
+    <string name="msg_default_type">Type</string>
+    <string name="result_address_book">Kontakt info fundet</string>
+    <string name="result_calendar">Kalenderbegivenhed fundet</string>
+    <string name="result_email_address">Emailadresse fundet</string>
+    <string name="result_geo">Geografiske koordinater fundet</string>
+    <string name="result_isbn">Bog fundet</string>
+    <string name="result_product">Produkt fundet</string>
+    <string name="result_sms">SMS adresse fundet</string>
+    <string name="result_tel">Tlf.nummer fundet</string>
+    <string name="result_text">Alm. tekst fundet</string>
+    <string name="result_uri">URL fundet</string>
+    <string name="result_wifi">WLAN Konfiguration fundet</string>
+    <string name="wifi_changing_network">ændre Network</string>
+    <string name="wifi_ssid_label">Netværks Navn</string>
+    <string name="wifi_type_label">Type</string>
+    <string name="barcode_image">Stregkode Billede</string>
+    <string name="file_storage_location">Fil lager lokation</string>
+    <string name="payleven">payleven</string>
+    <string name="yodo">yodo</string>
+    <string name="image">Billede</string>
+    <string name="settings_invoice_print_multiply">Flervalgs fakturer</string>
+    <string name="dlg_choosedir_file">Vælg CSV</string>
+    <string name="import_csv_dropbox">Import fra Share</string>
+    <string name="import_etsy">Etsy import</string>
+    <string name="set_file_storage_directory_warning">Sæt lagermappe i indstillingerne først!</string>
+    <string name="promote_product">Frem Produkt</string>
+    <string name="help">Hjælp</string>
+    <string name="stripe">Stripe</string>
+    <string name="settings_stripe_key">Stripe Key</string>
+    <string name="settings_character_encoding">Character encoding</string>
+    <string name="support">Support</string>
+    <string name="split">Split</string>
+    <string name="print_call_number_on_invoice">Print call number on invoice</string>
+    <string name="google_spreadsheet">Sync Settings</string>
+    <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
+    <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
+    <string name="esc_pos_print_logo">Print logo</string>
+</resources>
