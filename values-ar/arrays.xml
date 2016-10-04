@@ -3,7 +3,7 @@
     <string-array name="chart_interval">
         <item>أيام</item>
         <item>أسابيع</item>
-        <item>في الشهر</item>
+        <item>الشهور</item>
         <item>السنوات</item>
     </string-array>
     <string-array name="char_sizes">
