@@ -3,25 +3,25 @@
     <string name="product_not_found">المنتج غير موجود!</string>
 
     <string name="z_report">ZReport</string>
-    <string name="count_refunds">عدد من التسديدات</string>
+    <string name="count_refunds">عدد المستردات</string>
     <string name="reset_znumber">Reset Z Number!</string>
 
 
     <string name="product_image">صورة المنتج</string>
     
-    <string name="settings_printer_logo">Logo</string>
-    <string name="change_price">تغيير</string>
+    <string name="settings_printer_logo">الشعار</string>
+    <string name="change_price">تغييرالسعر</string>
     <string name="settings_printer_cutter_cmd">Cutter ESC/POS Commands</string>
     <string name="settings_printer_cashdrawer_cmd">Drawer ESC/POS Commands</string>
     <string name="settings_printer_char_size">حجم الخط</string>
-    <string name="settings_printer_char_table">مؤشر الجدول شخصية</string>
+    <string name="settings_printer_char_table">ترميز الحروف</string>
     <string name="esc_pos_printer">ESC/POS</string>
-    <string name="database_settings">Database</string>
+    <string name="database_settings">قاعدة البيانات</string>
     <string name="printer_settings">طباعة</string>
-    <string name="autoBackup">التلقائي النسخ الاحتياطي</string>
+    <string name="autoBackup">النسخ الاحتياطي</string>
     <string name="backupInterval">الفاصل الزمني النسخ الاحتياطي ( في دقيقة)</string>
    	
-   	<string name="settings_invoice_footer">فاتورة تذييل النص</string>
+   	<string name="settings_invoice_footer">النص اسفل الفاتورة</string>
     
    	<string name="authorizenet">Authorize.NET</string>
     <string name="authorizenet_login">Authorize Login</string>
@@ -74,25 +74,25 @@
     <string name="title_activity_charge_card">Charge Credit Card</string>
     <string name="action_settings">Settings</string>
    	
-   	<string name="kitchen_display">KitchenDisplay Address</string>
+   	<string name="kitchen_display">عنوان شاشة المطبخ</string>
    	
    	<string name="bitcoin">Bitcoin</string>
    	
-   	<string name="order_comment">تعليق اضافية</string>
+   	<string name="order_comment">تعليقات اضافية</string>
    	
    	<string name="stock_report_from">من </string>
     <string name="stock_report_to">إلى </string>
-    <string name="stock_report">المنتجات</string>
+    <string name="stock_report">تقرير المنتجات</string>
     
-	<string name="exporting_month_report">Exporting Month Report</string>
-    <string name="month_report">Month Report</string>
-    <string name="day_report">Day Report</string>
-    <string name="customer_count">Customer Count</string>
-    <string name="canceled_total">Canceled Total</string>
-    <string name="refunded_total">Refunded Total</string>
-    <string name="net_total">Net Total</string>
-    <string name="payment_methods">Payment Methods</string>
-    <string name="generated_on">Generated on</string>
+	<string name="exporting_month_report">تصدير تقرير شهري</string>
+    <string name="month_report">تقرير الشهر</string>
+    <string name="day_report">تقرير اليوم</string>
+    <string name="customer_count">عدد العملاء</string>
+    <string name="canceled_total">مجموع الملغاة</string>
+    <string name="refunded_total">مجموع المسترد</string>
+    <string name="net_total">المجموع الصافي</string>
+    <string name="payment_methods">طرق السداد</string>
+    <string name="generated_on">انشئت في</string>
    
    <string name="gift_card">بطاقة هدية</string>
    <string name="value">قيمة</string>
@@ -102,7 +102,7 @@
     
    <string name="tabshop_advert">printed by TabShop www.smartlab.at/tabshop-pos</string>
      
-   <string name="menu_change_table_name">أسماء الجداول</string>
+   <string name="menu_change_table_name">تغيير الطاوله</string>
    
    <string name="app_name_pro">TabShop PRO</string>
    <string name="app_name">TabShop</string> 
@@ -118,7 +118,7 @@
   <string name="print_invoice_tax">الضرائب:</string>
     <string name="print_invoice_total">المجموع:</string>
     <string name="print_invoice_cash">النقدي:</string>
-    <string name="print_invoice_change">التغيير:</string>
+    <string name="print_invoice_change">المتبقي:</string>
     <string name="print_invoice_paypal">PayPal الدفع</string>
     <string name="print_invoice_creditcard">CreditCard الدفع</string>
     <string name="print_invoice_cashcard">CashCard الدفع</string>
@@ -126,7 +126,7 @@
     <string name="zero">0</string>
   
   <!-- SyncService Strings -->
-  <string name="confirm_delete_all">تأكيد حذف كافة؟</string>
+  <string name="confirm_delete_all">تأكيد حذف الكل؟</string>
   <string name="op_client">تعمل كعميل</string>
   <string name="op_server">تعمل كخادم</string>
   <string name="cl_settings">إعدادات المزامنة العميل</string>
@@ -141,9 +141,9 @@
   <string name="invoice">الفاتورة</string>
   <string name="show_stock_history">التاريخ</string>
   <string name="stock_supplier">المورد</string>
-  <string name="add_stock">تقتني</string>
-  <string name="minStockValueTitle">مبلغ الحد الأدنى من الإخطار الأسهم</string>
-  <string name="low_stock_notify_msg">الأسهم المنخفضة:</string>
+  <string name="add_stock">اضافه</string>
+  <string name="minStockValueTitle">الحد الادنى للكميه قبل التنبيه</string>
+  <string name="low_stock_notify_msg">اوشك على الانتهاء:</string>
   <string name="product_attr_print_description">طباعة وصف (تلاحظ الضمان)</string>
   <string name="product_attr_sale">بيع</string>
   <string name="product_attr_backorder">المؤجل</string>
@@ -156,7 +156,7 @@
   <string name="menu_rate">معدل</string>
   <string name="total">المجموع</string>
   <string name="tax">الضرائب</string>
-  <string name="item">البند</string>
+  <string name="item">المنتج</string>
   <string name="qty">الكمية</string>
   <string name="unit_price">سعر الوحدة</string>
   <string name="sub_total">المجموع الفرعي</string>
@@ -176,14 +176,14 @@
   <string name="manage_discounts">الخصومات</string>
   <string name="checkout">الخروج</string>
   <string name="scan">المسح الضوئي</string>
-  <string name="manage_products">المنتجات</string>
+  <string name="manage_products">ادارة المنتجات</string>
   <string name="delete_category">حذف الفئة!</string>
   <string name="edit_settings">تحرير إعدادات</string>
   <string name="subscription">شراء ميزات</string>
-  <string name="cancel_invoice">إلغاء الأمر</string>
+  <string name="cancel_invoice">إلغاء الفاتورة</string>
   <string name="delete">حذف</string>
-  <string name="refund">برد</string>
-  <string name="delete_all">قم بحذف كافة</string>
+  <string name="refund">استرجاع</string>
+  <string name="delete_all">حذف الكل</string>
   <string name="close_day">إغلاق اليوم</string>
   <string name="export_csv">تصدير CSV</string>
   <string name="inventory">المخزون</string>
@@ -194,14 +194,14 @@
   <string name="remind">ذكرني لاحقاً</string>
   <string name="no_thanks">لا، شكراً</string>
   <!-- Checkout Activity and Resource -->
-  <string name="cash">النقدية</string>
+  <string name="cash">نقدا</string>
   <string name="paypal">بأي بال</string>
   <string name="paypalhere">هنا بأي بال</string>
   <string name="creditcard">بطاقة الائتمان</string>
   <string name="card">بطاقة</string>
   <string name="check">التحقق</string>
   <string name="customer">العملاء</string>
-  <string name="pdf">قوات الدفاع الشعبي</string>
+  <string name="pdf">pdf</string>
   <string name="print">طباعة</string>
   <string name="address">عنوان</string>
   <string name="email">البريد الإلكتروني</string>
@@ -216,17 +216,17 @@
   <string name="promo_code">الرمز الترويجي</string>
   <string name="inappstore_ok">موافق</string>
   <!-- InvoicesActivity and Resource -->
-    <string name="exporting_csv">Exporting CSV</string>
-    <string name="exporting_daily_report">Exporting Daily Report</string>
-    <string name="subtotal">Subtotal:</string>
-    <string name="cost_price_sum">Cost Price Sum: </string>
-    <string name="i_discounts">Discounts: </string>
-    <string name="i_taxes">Taxes: </string>
-    <string name="i_total">Total: </string>
+    <string name="exporting_csv">تصدير</string>
+    <string name="exporting_daily_report">تصدير التقرير اليومي</string>
+    <string name="subtotal">المجموع الفرعي:</string>
+    <string name="cost_price_sum">سعر التكلفة: </string>
+    <string name="i_discounts">خصومات: </string>
+    <string name="i_taxes">ضرائب: </string>
+    <string name="i_total">المجموع: </string>
     <string name="income_report_file_name">_DayReport</string>
-    <string name="i_from">from</string>
-    <string name="end_of_day_report">Day Report</string>
-    <string name="i_to">to</string>
+    <string name="i_from">من</string>
+    <string name="end_of_day_report">نهاية التقرير اليومي</string>
+    <string name="i_to">الى</string>
   <!-- ManageProductsActivity and Resource -->
   <string name="importing_csv">استيراد CSV</string>
   <string name="product_name">اسم المنتج</string>
@@ -234,28 +234,28 @@
   <string name="product_id">"معرف المنتج" (= الرمز الشريطي)</string>
   <string name="product_price">الأسعار</string>
   <string name="product_cost_price">سعر التكلفة</string>
-  <string name="product_stock_quantity">كمية الأسهم</string>
+  <string name="product_stock_quantity">الكمية</string>
   <string name="product_category_path">كاتيجوريباث (مثل/المواد الغذائية/المشروبات)</string>
   <string name="product_tax">الضرائب</string>
   <string name="product_discount">الخصم</string>
   <string name="product_price_no_num">الأسعار يجب أن يكون عدد!</string>
   <string name="product_cost_price_no_num">سعر التكلفة يجب أن يكون عدد!</string>
   <string name="product_qty_no_num">الكمية يجب أن يكون عدد!</string>
-  <string name="product_duplicate_product_id">معرف المنتج مكررة!</string>
+  <string name="product_duplicate_product_id">معرف المنتج مكرر</string>
   <string name="product_duplicate_product_name">تكرار اسم المنتج!</string>
   <string name="product_no_valid_product_id">لا يوجد معرف منتج صالح!</string>
   <string name="product_error_update">خطأ في تحديث المنتج!</string>
   <!-- ManageSettingsActivity and Resource -->
-  <string name="settings_locale">تحويل العملات</string>
+  <string name="settings_locale">المنطقة</string>
   <string name="settings_shop_name">اسم المحل</string>
   <string name="settings_paypal_account">حساب المحل بأي بال</string>
-  <string name="settings_company_text">نص الشركة فاتورة</string>
+  <string name="settings_company_text">وصف الشركة</string>
   <string name="settings_pos_id">معرف نقاط البيع (1..99)</string>
   <string name="settings_printer_ip">عنوان IP للطابعة</string>
   <string name="settings_nr_tables">Nr. من الجداول (الفواتير المفتوحة)</string>
   <string name="settings_save">حفظ</string>
   <!-- PrintOrderAsyncTask -->
-  <string name="print_order_title">Order للجدول: </string>
+  <string name="print_order_title">عنوان الطلب</string>
   <!-- PrintAsyncTask -->
   <string name="print_invoice_title">الفاتورة: </string>
   <!-- InvoicePDFPrinter -->
@@ -263,7 +263,7 @@
   <string name="print_pdf_printer_tax">الضرائب</string>
   <string name="print_pdf_printer_total">المجموع</string>
   <string name="print_pdf_printer_cash">النقدية</string>
-  <string name="print_pdf_printer_change">التغيير</string>
+  <string name="print_pdf_printer_change">الباقي</string>
   <string name="print_pdf_printer_paypal">الخروج بأي بال</string>
   <!-- PickTax Dialog -->
   <string name="pick_tax">تحديد الضريبة</string>
@@ -293,8 +293,8 @@
   <string name="reset_day">إعادة تعيين يوم</string>
   <string name="reset_account">إعادة تعيين الحساب</string>
   <string name="reset_invoices">إعادة ضبط الفواتير</string>
-  <string name="backup_all">جميع النسخ الاحتياطي</string>
-  <string name="restore_all">استعادة كافة</string>
+  <string name="backup_all">النسخ الاحتياطي</string>
+  <string name="restore_all">استعادة</string>
   <string name="settings_exclusiveTaxMode">الوضع الضريبي في الولايات المتحدة الأمريكية</string>
   <string name="open_database">فتح قاعدة البيانات</string>
   <string name="pwd_not_set">لم يتم تعيين كلمة المرور!</string>
@@ -346,10 +346,10 @@
     <string name="settings_stripe_key">Stripe Key</string>
     <string name="settings_character_encoding">Character encoding</string>
     <string name="support">Support</string>
-    <string name="split">Split</string>
-    <string name="print_call_number_on_invoice">Print call number on invoice</string>
-    <string name="google_spreadsheet">Sync Settings</string>
-    <string name="menu_sync_title_old">Sync Settings (deprecated)</string>
+    <string name="split">اقتسام</string>
+    <string name="print_call_number_on_invoice">طباعة رقم الطلب</string>
+    <string name="google_spreadsheet">خيارات المزامنة</string>
+    <string name="menu_sync_title_old">خيارات المزامنة(deprecated)</string>
     <string name="settings_printer_header_cmd">Header ESC/POS commands</string>
-    <string name="esc_pos_print_logo">Print logo</string>
+    <string name="esc_pos_print_logo">طباعة الشعار</string>
 </resources>
